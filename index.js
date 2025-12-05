@@ -92,7 +92,7 @@ async function main(){
       { _id: new ObjectId(id) },
     );
 
-    res.send("Item Removido com Sucesso");
+    res.send("Item Removido com Sucess");
   })
 
   app.listen(3000);
